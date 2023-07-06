@@ -1,0 +1,7 @@
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\D3D12\D3D12Core.dll
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\D3D12\D3D12Core.pdb
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\D3D12\D3D12SDKLayers.dll
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\D3D12\D3D12SDKLayers.pdb
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\dxcompiler.dll
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\dxcompiler.pdb
+C:\Users\kweon\OneDrive\문서\NewGit\DirectX-Graphics-Samples\Samples\Desktop\preview\D3D12HelloWorkGraphs\x64\Debug\D3D12HelloWorkGraphs.exe
